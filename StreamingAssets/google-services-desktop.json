@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1035487498671",
+    "firebase_url": "https://timedskill-default-rtdb.firebaseio.com",
+    "project_id": "timedskill",
+    "storage_bucket": "timedskill.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035487498671:android:3254682adb97eec1a81f5a",
+        "android_client_info": {
+          "package_name": "com.Sekai.TimedSkill"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSFED8a2OUKbbWlJRLk7ivXRjn6iJwdkU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
